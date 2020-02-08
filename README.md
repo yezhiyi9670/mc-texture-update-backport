@@ -13,7 +13,7 @@ The pack is designed to work correctly in Minecraft 1.10 - 1.12.2, but it will p
 
 Does not require rendering patches like Optifine (it doesn't matter if you are already using one).
 
-(P.S. Looking for the texture pack from Minecraft Alpha? Get it [here](https://www.minecraftxl.com/nostalgia-craft-resource-pack/))
+(The copyright of these texture files belong to mojang, not me)
 
 ## Installation
 
@@ -25,8 +25,11 @@ I think I don't need to do this. Try Minecraft 1.14 or this pack by yourself.
 
 ## Known Issues and WIP
 
-| Issue                                                             | Help Needed | Solved                                       |
-| ----------------------------------------------------------------- | ----------- | -------------------------------------------- |
-| Skybox is white on the horizon under altitude 58 instead of black | Yes         | Don't know whether this is intended.         |
-| The texture of Water is still using the one from MC 1.12.2        | -           | I have Adobe Photoshit now. Will solve soon. |
-| Lacking the texture of the 'saturation' mob effect                | Yes         | I don't know what caused the issue.          |
+| Issue                                                             | Status      | Comment                                               |
+| ----------------------------------------------------------------- | ----------- | ----------------------------------------------------- |
+| Skybox is white on the horizon under altitude 58 instead of black | Need help   | Expected behavior, but will fix if possible.          |
+| The texture of Water is still using the one from MC 1.12.2        | Need help   | I cannot make the texture fit Minecraft 1.12          |
+| Lacking the texture of the 'saturation' mob effect                | Won't fix   | Seems to be intended. Won't fix.                      |
+| The two sides of a sign don't use the same texture                | Need help   | Don't know if it is intended and what causes it.      |
+
+If you found a lack of texture or issue which is not listed above, feel free to open an issue. Enhancement suggestions are also welcome.
