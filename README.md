@@ -3,6 +3,8 @@ The Texture Update pack
 
 <div style="float:right"><img src="https://i.loli.net/2020/02/01/x2E3JcfH7ZOQdRe.png"></div>
 
+Warning: I'm not going to maintain this. Use [Modernity](https://www.curseforge.com/minecraft/texture-packs/modernity) instead. It has the same functionallity and is better.
+
 Like the new textures in Minecraft 1.14 but don't play it because of the lack of mods? Then try this texture pack!<sup>[Java Edition Only]</sup>
 
 (If you still haven't played 1.14 yet, or you haven't noticed the changes, [see it in Minecraft Wiki](https://minecraft-zh.gamepedia.com/%E6%9D%90%E8%B4%A8%E6%9B%B4%E6%96%B0))
